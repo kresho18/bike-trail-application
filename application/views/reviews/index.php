@@ -15,7 +15,7 @@
 
 <div id="googleMap" style="width:100%;height:400px;"></div>
 
-<script>
+<!-- <script>
 function myMap() {
 var mapProp= {
   center:new google.maps.LatLng(45.54694, 13.72944),
@@ -23,9 +23,7 @@ var mapProp= {
 };
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCuaTxmepzobxV67kmz5XmP3Ae5YsMCqMU&callback=myMap"></script>
+</script> -->
 
 </body>
 </html>
